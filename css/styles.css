@@ -1,0 +1,19 @@
+img {
+  width: 400px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  font-weight: normal;
+}
