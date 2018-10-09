@@ -23,6 +23,8 @@ p {
 
 body {
   background-image: url('../img/gold.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   font-weight: bolder;
   color: black;
   font-family: Apple Chancery;
